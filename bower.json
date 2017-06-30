@@ -1,6 +1,6 @@
 {
   "name": "avCommon",
-  "version" : "103.111.1",
+  "version" : "17.04",
   "main": "index.html",
   "ignore": [
     "tests",
